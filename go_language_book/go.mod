@@ -1,3 +1,3 @@
-module github.com/xFingerlinKx/go_book
+module go_book
 
 go 1.16
